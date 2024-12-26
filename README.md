@@ -1,4 +1,4 @@
-![Alt Text](Screenshot (52).png "Optional Title")
+![Disease Prediction](Screenshot (52).png "Disease Prediction Interface")
 
 # Multiple Disease Prediction System  
 
