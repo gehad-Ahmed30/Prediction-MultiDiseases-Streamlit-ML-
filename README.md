@@ -1,4 +1,5 @@
-![Disease Prediction](Screenshot (52).png "Disease Prediction Interface")
+![Disease Prediction](Screenshot_69.png "Disease Prediction Interface")
+
 
 # Multiple Disease Prediction System  
 
