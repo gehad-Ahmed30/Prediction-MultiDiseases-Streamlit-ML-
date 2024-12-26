@@ -1,3 +1,5 @@
+![Alt Text](Screenshot (52).png "Optional Title")
+
 # Multiple Disease Prediction System  
 
 ## Overview  
